@@ -1,0 +1,88 @@
+2017-07-01 21:44:08.552 Info   Starting JoyToKey Ver5.8.2
+2017-07-01 21:44:08.552 Info   ExeFile=C:\Users\Tejas\Desktop\aaa\JoyToKey.exe
+2017-07-01 21:44:08.552 Info   ConfigDir=C:\Users\Tejas\Desktop\aaa\
+2017-07-01 21:44:08.552 Info   IniFile=C:\Users\Tejas\Desktop\aaa\JoyToKey.ini
+2017-07-01 21:44:08.552 Info   Windows Version = 6.2
+2017-07-01 21:44:08.553 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#217)
+2017-07-01 21:44:08.553 Info   LicenseKey "" is not valid
+2017-07-01 21:44:08.779 Info   Loading XInput1_3.dll (Joystick.cpp#126)
+2017-07-01 21:44:08.795 Info   Initialized XInput (Joystick.cpp#144)
+2017-07-01 21:44:08.857 Info   Detected a DI joystick: {31FB3150-5EA5-11E7-8002-444553540000}, USB Network Joystick, USB Network Joystick
+2017-07-01 21:44:08.857 Info   Preferred index = -1
+2017-07-01 21:44:08.874 Info   numAxis = 4
+2017-07-01 21:44:08.874 Info   numPOVs = 1
+2017-07-01 21:44:08.874 Info   numButtons = 12
+2017-07-01 21:44:08.874 Info   EnumDeviceObject: Axis offset=0 type=502 name=Z Rotation
+2017-07-01 21:44:08.874 Info   EnumDeviceObject: Axis offset=4 type=202 name=Z Axis
+2017-07-01 21:44:08.874 Info   EnumDeviceObject: Axis offset=8 type=1000102 name=Y axis
+2017-07-01 21:44:08.874 Info   EnumDeviceObject: Axis offset=12 type=1000002 name=X axis
+2017-07-01 21:44:08.875 Info   DetectJoysticks: Detected 1 DI joystick(s)
+2017-07-01 21:44:08.876 Info   Joystick #1: USB Network Joystick
+2017-07-01 21:44:08.876 Info   1 joysticks are detected (Joystick.cpp#166)
+2017-07-01 21:44:08.876 Info   ConfigDir=C:\Users\Tejas\Desktop\aaa\*.cfg (ConfigFileManager.cpp#43)
+2017-07-01 21:44:08.879 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2017-07-01 21:44:08.889 Info   TimerInit: Initializing timer with x4 speed mode (interval = 4 msec)
+2017-07-01 21:44:13.803 Info   Load config file "02 JOYPAD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:44:13.813 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\02-JOYPAD-MODE.png (Main.cpp#605)
+2017-07-01 21:44:13.841 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - JOYPAD MODE (M).mp3 (Main.cpp#635)
+2017-07-01 21:44:17.543 Info   Load config file "03 KEYBOARD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:44:17.552 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\03-KEYBOARD-MODE.png (Main.cpp#605)
+2017-07-01 21:44:17.584 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - KEYBOARD MODE (F).mp3 (Main.cpp#635)
+2017-07-01 21:44:18.781 Info   Load config file "SLOT 001" (ConfigFileManager.cpp#111)
+2017-07-01 21:44:18.789 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\SLOT-001.png (Main.cpp#605)
+2017-07-01 21:44:18.803 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\01 (F).mp3 (Main.cpp#635)
+2017-07-01 21:45:30.379 Info   Load config file "SLOT 002" (ConfigFileManager.cpp#111)
+2017-07-01 21:45:30.411 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\SLOT-002.png (Main.cpp#605)
+2017-07-01 21:45:30.422 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\02 (F).mp3 (Main.cpp#635)
+2017-07-01 21:45:32.363 Info   Load config file "SLOT 001" (ConfigFileManager.cpp#111)
+2017-07-01 21:45:32.369 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\SLOT-001.png (Main.cpp#605)
+2017-07-01 21:45:32.380 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\01 (F).mp3 (Main.cpp#635)
+2017-07-01 21:45:33.505 Info   Load config file "02 JOYPAD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:45:33.510 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\02-JOYPAD-MODE.png (Main.cpp#605)
+2017-07-01 21:45:33.539 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - JOYPAD MODE (M).mp3 (Main.cpp#635)
+2017-07-01 21:45:39.539 Info   Load config file "01 MOUSE MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:45:39.545 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\01-MOUSE-MODE.png (Main.cpp#605)
+2017-07-01 21:45:39.574 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - MOUSE MODE (M).mp3 (Main.cpp#635)
+2017-07-01 21:45:43.327 Info   Load config file "02 JOYPAD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:45:43.332 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\02-JOYPAD-MODE.png (Main.cpp#605)
+2017-07-01 21:45:43.361 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - JOYPAD MODE (M).mp3 (Main.cpp#635)
+2017-07-01 21:46:16.771 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:46:20.626 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:46:29.579 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:46:55.389 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:47:03.075 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:47:16.881 Info   Load config file "03 KEYBOARD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:47:16.890 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\03-KEYBOARD-MODE.png (Main.cpp#605)
+2017-07-01 21:47:16.920 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - KEYBOARD MODE (F).mp3 (Main.cpp#635)
+2017-07-01 21:47:19.549 Info   Load config file "02 JOYPAD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:47:19.555 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\02-JOYPAD-MODE.png (Main.cpp#605)
+2017-07-01 21:47:19.582 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - JOYPAD MODE (M).mp3 (Main.cpp#635)
+2017-07-01 21:47:21.101 Info   Load config file "03 KEYBOARD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:47:21.106 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\03-KEYBOARD-MODE.png (Main.cpp#605)
+2017-07-01 21:47:21.137 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - KEYBOARD MODE (F).mp3 (Main.cpp#635)
+2017-07-01 21:47:24.202 Info   Load config file "SLOT 001" (ConfigFileManager.cpp#111)
+2017-07-01 21:47:24.207 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\SLOT-001.png (Main.cpp#605)
+2017-07-01 21:47:24.218 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\01 (F).mp3 (Main.cpp#635)
+2017-07-01 21:48:01.482 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:48:04.597 Info   Load config file "03 KEYBOARD MODE" (ConfigFileManager.cpp#111)
+2017-07-01 21:48:04.627 Info   Displaying an image file: C:\Users\Tejas\Desktop\aaa\IMAGES\03-KEYBOARD-MODE.png (Main.cpp#605)
+2017-07-01 21:48:04.660 Info   Playing a sound file: C:\Users\Tejas\Desktop\aaa\SOUNDS\MODE - KEYBOARD MODE (F).mp3 (Main.cpp#635)
+2017-07-01 21:48:22.657 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:48:40.307 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:49:05.450 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:49:43.834 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:50:18.893 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:54:03.157 Error  Access is denied.
+ (Utils\Utils.cpp#464)
+2017-07-01 21:54:16.574 Info   Application terminated (Utils\LogFile.cpp#20)

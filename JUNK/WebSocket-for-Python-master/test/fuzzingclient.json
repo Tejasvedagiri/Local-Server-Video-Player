@@ -1,0 +1,52 @@
+{
+   "options": {"failByDrop": false},
+   "outdir": "./reports/servers",
+ 
+   "servers": [
+                
+                {"agent": "ws4py (CherryPy 5.5.0) for Python 2.7.6",
+                 "url": "ws://127.0.0.1:9008/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (CherryPy 5.5.0)/wsaccel for Python 2.7.6",
+                 "url": "ws://127.0.0.1:9006/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (CherryPy 5.5.0)/wsaccel for Python 3.5.0",
+                 "url": "ws://127.0.0.1:9004/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (CherryPy 5.5.0) for PyPy 5.1",
+                 "url": "ws://127.0.0.1:9005/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (gevent 1.1.1)/wsaccel for Python 3.5.0",
+                 "url": "ws://127.0.0.1:9001/",
+                 "options": {"version": 18}},
+                
+                {"agent": "Tornado 4.3 for Python 3.5.0",
+                 "url": "ws://127.0.0.1:9007/",
+                 "options": {"version": 18}},
+                
+                {"agent": "Autobahn 0.10.9 for Python 3.5.0",
+                 "url": "ws://127.0.0.1:9003/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (asyncio)/wsaccel for Python 3.5.0",
+                 "url": "ws://127.0.0.1:9009/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (wsgi) for Python 2.7",
+                 "url": "ws://127.0.0.1:9002/",
+                 "options": {"version": 18}},
+
+                {"agent": "ws4py (wsgi async) for Python 2.7",
+                 "url": "ws://127.0.0.1:9010/",
+                 "options": {"version": 18}}
+
+              ],
+ 
+   "cases": ["*"],
+   "exclude-cases": ["6.4.3", "6.4.4", "12.*", "13.*"],
+   "exclude-agent-cases": {}
+}
